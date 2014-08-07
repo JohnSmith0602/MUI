@@ -1,0 +1,20 @@
+## Node
+node-modules/
+
+## Bower
+.bower-cache
+.bower-registry/
+.bower-tmp/
+
+## editor
+# Espresso
+*.esproj
+# SublimeText
+*.sublime-workspace
+
+## project
+log/*
+public/lib/
+
+## MUI
+temp/
