@@ -1,4 +1,4 @@
 MUI
 ===
 
-A personal UI settings.
+A personal UI settings project.
